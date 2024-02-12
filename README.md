@@ -3,7 +3,7 @@ I'm Calvin, an undergraduate **Data Science** student and **Design Minor**. I am
 
 <p align="left">
 School Email: 
-<a href="mailto:can005@ucsd.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:can005@ucsd.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><br>
 Personal Email: 
 <a href="mailto:calviinnguyenn@gmail.com.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 Linkedin:
