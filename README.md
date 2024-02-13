@@ -33,10 +33,11 @@ Linkedin:
 <details>
   <summary>📧 Other ways to Get in Touch.</summary>
 <br> 
+  
 Please feel free to contact me with any of the following methods: 
-- **Email:** Please identify yourself with your Github username and how you found me in your email 
+- **Email:** Please identify yourself with your Github username and how you found me in your email
   - Preferably, contact through my personal email above! 'calviinnguyenn@gmail.com'
-- **Github:** Click [here](https://github.com/Neniflight/Nenifight/issues/new) to leave an issue. If you would like to report an issue about one of my projects, leave an issue in the relevant project repository. 
+- **Github:** Click [here](https://github.com/Neniflight/Nenifight/issues/new) to leave an issue. If you would like to report an issue about one of my projects, leave an issue in the relevant project repository.
 - **LinkedIn:** Click [here](https://www.linkedin.com/in/calvin-nguyen-1089b51a1/) to connect and message with me! Also see what other experiences I have!
 
 ---
