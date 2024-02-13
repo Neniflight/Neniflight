@@ -21,6 +21,7 @@ Linkedin:
 
   My past experience includes:
 - Data Science Mentee working with Deloitte to solve a drug use problem
+- Researcher at Scripps Institute of Oceanography for using NLP for climate action documents
 - Data Science Intern at Hey Social Good working on making the sustainability assessments more efficient
 - Project Lead for DS3 Consulting
 - Frontend Engineer with the GAMED website
@@ -31,7 +32,7 @@ Linkedin:
 </details>
 
 <details>
-  <summary>📧 Other ways to Get in Touch.</summary>
+  <summary>📧<ins>Other ways to Get in Touch</ins></summary>
 <br> 
   
 Please feel free to contact me with any of the following methods: 
@@ -41,5 +42,18 @@ Please feel free to contact me with any of the following methods:
 - **LinkedIn:** Click [here](https://www.linkedin.com/in/calvin-nguyen-1089b51a1/) to connect and message with me! Also see what other experiences I have!
 
 ---
+
+</details>
+
+<details>
+  <summary>🤩<ins>Interests!</ins> </summary>
+  <br>
+
+  * Playing Music with my Clarinet 🎶 
+  * Competitive Mario Kart with UCSD 🚗 
+  * Cooking 🧑‍🍳
+  * Thrifting 💼
+  * Drawing ✍️
+  * Long Car Rides 🛞
 
 </details>
