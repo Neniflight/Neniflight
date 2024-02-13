@@ -25,6 +25,9 @@ Linkedin:
 - Project Lead for DS3 Consulting
 - Frontend Engineer with the GAMED website
 - Linear Algebra Supplemental Instruction Leader to over 100+ students
+
+---
+
 </details>
 
 <details>
