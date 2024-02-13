@@ -92,5 +92,5 @@ Please feel free to contact me with any of the following methods:
 </p>
 
 <tr>
-  <td><img src="https://streak-stats.demolab.com?user=neniflight&ring=DD6304&theme=jolly" width="420"/> </td>
+  <td align="center"><img src="https://streak-stats.demolab.com?user=neniflight&ring=DD6304&theme=jolly" width="420"/> </td>
 </tr>
