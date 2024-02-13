@@ -108,4 +108,14 @@ Please feel free to contact me with any of the following methods:
   * Agile/Scrum
   * Machine Learning
   * Recommender Systems
+---
+
+  ## Projects:
+  * League of Legends Competitive Analysis
+  * (GAMED)[https://ucsdgamed.onrender.com/]: Website to find games with play with other gamers 
+  * League of Legends Champion Prediction
+  * Political Sentiment Analysis with BERT
+  * Covid Grade Inflation Study
+  * Factors leading to the Rise of Esports in Different Regions
+  * Google Establishment Recommendation System
 </details>
