@@ -91,6 +91,6 @@ Please feel free to contact me with any of the following methods:
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
 </p>
 
-<tr>
-  <td><img align="center" src="https://streak-stats.demolab.com?user=neniflight&ring=DD6304&theme=jolly" width="420"/> </td>
+<tr align="center">
+  <td><img src="https://streak-stats.demolab.com?user=neniflight&ring=DD6304&theme=jolly" width="420"/> </td>
 </tr>
