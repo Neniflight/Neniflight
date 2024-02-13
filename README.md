@@ -70,6 +70,7 @@ Please feel free to contact me with any of the following methods:
 <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>
 <img alt="Plotly" src="https://img.shields.io/badge/Plotly-3775A9?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img alt="PySpark" src="https://img.shields.io/badge/PySpark-white?style=for-the-badge&logo=apache%20spark&logoColor=white&color=E47217"/>
 <img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
 <img alt="scikit-learn" src="https://img.shields.io/badge/sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
