@@ -76,6 +76,7 @@ Please feel free to contact me with any of the following methods:
 <img alt="scikit-learn" src="https://img.shields.io/badge/sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/>
 <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/>
+<img alt="D3" src="https://img.shields.io/badge/D3-white?style=for-the-badge&logo=d3.js&logoColor=white&color=E47217"/>
 <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/selenium-white?style=for-the-badge&logo=selenium&logoColor=white&color=00B400"/>
