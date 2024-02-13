@@ -9,8 +9,9 @@ Personal Email:
 Linkedin:
 <a href="https://www.linkedin.com/in/calvin-nguyen-1089b51a1/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-* 📫 How to reach me: any of the above links will work, but preferably email is best!\
-<br>
+* 📫 How to reach me: any of the above links will work, but preferably email is best!
+\
+
 <details>
   <summary>🗒️ Experience</summary>
   <br>
