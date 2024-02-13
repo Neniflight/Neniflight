@@ -1,5 +1,5 @@
 # Hello and Welcome! :0 👋
-I'm Calvin, an undergraduate **Data Science** student and **Design Minor** at the University of California, San Diego. I am well versed in Data Science, Software Engineering (especially Frontend), Machine Learning & Automation. Personally, I am interested in Natural Language Processing, Video Game Analytics, and Reinforcement Learning! I always happy to learn more 😄!
+I'm Calvin, an undergraduate **Data Science** student and **Design Minor** at the University of California, San Diego (UCSD). I am well versed in Data Science, Software Engineering (especially Frontend), Machine Learning & Automation. Personally, I am interested in Natural Language Processing, Video Game Analytics, and Reinforcement Learning! I always happy to learn more 😄!
 
 <p align="left">
 School Email: 
@@ -90,3 +90,7 @@ Please feel free to contact me with any of the following methods:
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
 </p>
+
+<tr>
+  <td><img src="https://streak-stats.demolab.com?user=neniflight&ring=DD6304&theme=jolly" width="420"/> </td>
+</tr>
