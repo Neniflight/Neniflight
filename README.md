@@ -14,7 +14,7 @@ Linkedin:
 
 <br>
 <details>
-  <summary>🗒️ Experience</summary>
+  <summary>🗒️ <ins>Experience</ins></summary>
   <br>
 
   Currently, I am the VP Projects of ACM where I manage projects for AI, Design, and Software Engineering. I have managed over 300+ students and helped them learn skills to excel in the industry. This quarter, my coursework involves Data Visualization with D3, Probabilistic Modeling, Machine Learning, and Statistics.
