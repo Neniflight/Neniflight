@@ -111,11 +111,11 @@ Please feel free to contact me with any of the following methods:
 ---
 
   ## Projects:
-  * [League of Legends Competitive Analysis](https://kchan2203.github.io/2022_lol_comp_data_analysis/)
+  * League of Legends Competitive Analysis: [Website](https://kchan2203.github.io/2022_lol_comp_data_analysis/)
   * [GAMED](https://ucsdgamed.onrender.com/) : Website to find games with play with other gamers 
-  * [League of Legends Champion Prediction](https://kchan2203.github.io/2022_lol_comp_model/)
+  * League of Legends Champion Prediction: [Website](https://kchan2203.github.io/2022_lol_comp_model/)
   * Political Sentiment Analysis with BERT
-  * Covid Grade Inflation Study: [Video](https://www.youtube.com/watch?v=PG2LRgOwt_0) [Slideshow](https://docs.google.com/presentation/d/1qIMXz5U-no4Nm5EKTenvvpKOA9hW7ruuRUB3G-q0vHU/edit?usp=sharing)
-  * Factors leading to the Rise of Esports in Different Regions: [Video](https://www.youtube.com/watch?v=TtQje8LZ1V4) [Report](https://github.com/drsimpkins-teaching/cogs109_ss1_23_group_19/blob/main/FinalReport_group19.ipynb)
-  * Google Establishment Recommendation System [Paper](https://drive.google.com/file/d/1gaSdtogymOK6ArwyHyrFyv1qOFVXXtmG/view?usp=sharing)
+  * Covid Grade Inflation Study: [Video](https://www.youtube.com/watch?v=PG2LRgOwt_0), [Slideshow](https://docs.google.com/presentation/d/1qIMXz5U-no4Nm5EKTenvvpKOA9hW7ruuRUB3G-q0vHU/edit?usp=sharing)
+  * Factors leading to the Rise of Esports in Different Regions: [Video](https://www.youtube.com/watch?v=TtQje8LZ1V4), [Report](https://github.com/drsimpkins-teaching/cogs109_ss1_23_group_19/blob/main/FinalReport_group19.ipynb)
+  * Google Establishment Recommendation System: [Paper](https://drive.google.com/file/d/1gaSdtogymOK6ArwyHyrFyv1qOFVXXtmG/view?usp=sharing)
 </details>
