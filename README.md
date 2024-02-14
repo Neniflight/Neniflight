@@ -60,6 +60,17 @@ Please feel free to contact me with any of the following methods:
 
 </details>
 
+<details>
+  <summary>📝 <ins>Resume!</ins> </summary>
+  <br>
+  
+  * [Data Science](https://drive.google.com/file/d/14MnnCZn6sL0mA8Oej9T2MGdzA1JNjmQ1/view?usp=sharing)
+  * [Software Engineer](https://drive.google.com/file/d/1XgVacHmKKVHsxzd3UGR6ZFIHhm0SXH0A/view?usp=sharing)
+
+---
+
+</details>
+
 ## Skills
 <p align="center">
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
