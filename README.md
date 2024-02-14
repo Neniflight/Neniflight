@@ -97,7 +97,7 @@ Please feel free to contact me with any of the following methods:
 </tr>
 
 <details>
-  <summary>More Information!</summary>
+  <summary><ins>More Information!</ins></summary>
   <br>
 
   ## Experience in:
