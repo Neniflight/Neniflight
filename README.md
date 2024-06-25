@@ -65,7 +65,7 @@ Please feel free to contact me with any of the following methods:
   <summary>📝 <ins>Resume!</ins> </summary>
   <br>
   
-  * [Data Science](https://drive.google.com/file/d/14MnnCZn6sL0mA8Oej9T2MGdzA1JNjmQ1/view?usp=sharing)
+  * [Data Science](https://drive.google.com/file/d/1EJBvsDUc0GpzPKZ0ax2eDiKshFvNkLqq/view?usp=sharing)
   * [Software Engineer](https://drive.google.com/file/d/1XgVacHmKKVHsxzd3UGR6ZFIHhm0SXH0A/view?usp=sharing)
 
 ---
