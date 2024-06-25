@@ -17,9 +17,10 @@ Linkedin:
   <summary>🗒️ <ins>Experience</ins></summary>
   <br>
 
-  Currently, I am the VP Projects of ACM where I manage projects for AI, Design, and Software Engineering. I have managed over 300+ students and helped them learn skills to excel in the industry. This quarter, my coursework involves Data Visualization with D3, Probabilistic Modeling, Machine Learning, and Statistics.
+  Currently, I am a Data Science & Analytics Intern @ Skechers. 
 
   My past experience includes:
+- VP Projects of ACM managing 30+ projects for AI, Design, and Software Engineering. 
 - Data Science Mentee working with Deloitte to solve a drug use problem: [Slideshow](https://docs.google.com/presentation/d/1g5-QjywmVWw5SFk_CMmucitgdponL5y60jOHJCd4aS8/edit?usp=sharing)
 - Researcher at Scripps Institute of Oceanography for using NLP for climate action documents
 - Data Science Intern at Hey Social Good working on making the sustainability assessments more efficient
