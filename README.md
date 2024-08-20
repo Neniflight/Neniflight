@@ -77,6 +77,7 @@ Please feel free to contact me with any of the following methods:
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=Javascript&logoColor=black&color=F7DF1E"/>
 <img src="https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=MySQL&logoColor=black&color=08668E"/>
+<img src="https://img.shields.io/badge/Databricks-white?style=for-the-badge&logo=Databricks&logoColor=black&color=FF3621"/>
 <img src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=black&color=1082A7"/>
 <img src="https://img.shields.io/badge/next-white?style=for-the-badge&logo=next.js&logoColor=white&color=black"/>
 <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
