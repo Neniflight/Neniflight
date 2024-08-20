@@ -78,6 +78,7 @@ Please feel free to contact me with any of the following methods:
 <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=Javascript&logoColor=black&color=F7DF1E"/>
 <img src="https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=MySQL&logoColor=black&color=08668E"/>
 <img src="https://img.shields.io/badge/Databricks-white?style=for-the-badge&logo=Databricks&logoColor=black&color=FF3621"/>
+<img src="https://img.shields.io/badge/aws-white?style=for-the-badge&logo=amazonwebservices&logoColor=white&color=232F3E"/>
 <img src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=black&color=1082A7"/>
 <img src="https://img.shields.io/badge/next-white?style=for-the-badge&logo=next.js&logoColor=white&color=black"/>
 <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
@@ -94,6 +95,7 @@ Please feel free to contact me with any of the following methods:
 <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/selenium-white?style=for-the-badge&logo=selenium&logoColor=white&color=00B400"/>
+<img src="https://img.shields.io/badge/confluence-white?style=for-the-badge&logo=confluence&logoColor=white&color=172B4D"/>
 <img alt="Dask" src="https://img.shields.io/badge/Dask-FDA061?style=for-the-badge&logo=dask&logoColor=white">
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
