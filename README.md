@@ -85,6 +85,7 @@ Please feel free to contact me with any of the following methods:
 <img src="https://img.shields.io/badge/aws-white?style=for-the-badge&logo=amazonwebservices&logoColor=white&color=232F3E"/>
 <img src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=black&color=1082A7"/>
 <img src="https://img.shields.io/badge/next-white?style=for-the-badge&logo=next.js&logoColor=white&color=black"/>
+<img src="https://img.shields.io/badge/ArcGIS-4479A1?style=for-the-badge&logo=arcgis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>
 <img alt="Plotly" src="https://img.shields.io/badge/Plotly-3775A9?style=for-the-badge&logo=plotly&logoColor=white"/>
@@ -104,6 +105,7 @@ Please feel free to contact me with any of the following methods:
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
 <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/incorta-white?style=for-the-badge&logo=incorta&logoColor=white&color=087ACC"/>
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
