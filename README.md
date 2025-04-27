@@ -1,13 +1,13 @@
 # Hello and Welcome! :0 👋
-I'm Calvin, an undergraduate **Data Science** student and **Design Minor** at the University of California, San Diego (UCSD). I am well versed in Data Science, Software Engineering (especially Frontend), Machine Learning & Automation. Personally, I am interested in Natural Language Processing, Video Game Analytics, and Reinforcement Learning! I always happy to learn more 😄! Updated up to 6/25/2024
+I'm Calvin, an undergraduate **Data Science** student and **Design Minor** at the University of California, San Diego (UCSD). I am well versed in Data Science, Software Engineering (especially Frontend), Machine Learning & Automation. Personally, I am interested in Natural Language Processing, Video Game Analytics, and Reinforcement Learning! I always happy to learn more 😄! Updated up to 4/27/2025
 
 <p align="left">
 School Email: 
 <a href="mailto:can005@ucsd.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><br>
 Personal Email: 
-<a href="mailto:calviinnguyenn@gmail.com.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><br>
+<a href="mailto:calviinnguyenn@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><br>
 Linkedin:
-<a href="https://www.linkedin.com/in/calvin-nguyen-1089b51a1/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/calvin-nguyen-data/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 * 📫 How to reach me: any of the above links will work, but preferably email is best!
 <br>
@@ -17,13 +17,16 @@ Linkedin:
   <summary>🗒️ <ins>Experience</ins></summary>
   <br>
 
-  Currently, I am a Data Science & Analytics Intern @ Skechers. 
+  Currently, I am a Data Science Intern @ Center for Energy Research for UC San Diego. I optimize energy usage and help UC San Diego save money through analyzing historical and temperature data. 
 
   My past experience includes:
+- Data Science Intern @ Skechers USA. Built out a new data quality pipeline for Skechers that helps identify outliers within data from different aspects of business.
+- Data Science Tutor at Halicoglu Data Science Institute. Tutoring and hosting office hours for 50+ students in introduction to data science courses.
+- Capstone Project with Director of AI @ Google. Built out Chenly Insights, a tool used to identify misinformation present within news articles, using both generative AI and predictive AI in tandem. [Paper](https://samanthalin0918.github.io/project-page/)
 - VP Projects of ACM managing 30+ projects for AI, Design, and Software Engineering. 
 - Data Science Mentee working with Deloitte to solve a drug use problem: [Slideshow](https://docs.google.com/presentation/d/1g5-QjywmVWw5SFk_CMmucitgdponL5y60jOHJCd4aS8/edit?usp=sharing)
-- Researcher at Scripps Institute of Oceanography for using NLP for climate action documents
-- Data Science Intern at Hey Social Good working on making the sustainability assessments more efficient
+- Researcher at Scripps Institute of Oceanography for using NLP for climate action documents. Built out visualization to see what topics each country focuses on for their NDCs. [Link](https://neniflight.github.io/marine_ndc_country_vis/)
+- Data Science Intern at Hey Social Good. Worked on making the sustainability assessments more efficient. Created a tool to capture all information related to a company. 
 - Project Lead for DS3 Consulting
 - Frontend Engineer with the GAMED website
 - Linear Algebra Supplemental Instruction Leader to over 100+ students
@@ -51,7 +54,7 @@ Please feel free to contact me with any of the following methods:
   <br>
 
   * Playing Music with my Clarinet 🎶 
-  * Competitive Mario Kart with UCSD 🚗 
+  * Competitive Mario Kart with UCSD 🚗. We won D1 National Championships in 2024.  
   * Cooking 🧑‍🍳
   * Thrifting 💼
   * Drawing ✍️
@@ -62,7 +65,8 @@ Please feel free to contact me with any of the following methods:
 </details>
 
 <details>
-  <summary>📝 <ins>Resume!</ins> </summary>
+  <summary>📝 <ins>Master Resume!</ins> </summary>
+  If you would like to see all of my experiences, my resume can be found here. 
   <br>
   
   * [Data Science](https://drive.google.com/file/d/1EJBvsDUc0GpzPKZ0ax2eDiKshFvNkLqq/view?usp=sharing)
@@ -125,8 +129,10 @@ Please feel free to contact me with any of the following methods:
 ---
 
   ## Projects:
+  * Chenly Insights (UC San Diego Capstone Project): [Github](https://github.com/Neniflight/Q1-B01-Team-CS), [Paper](https://samanthalin0918.github.io/project-page/)
+  * Genshin Impact Speaker Identification: Speak into the model and determine which Genshin character you sound most like! Utilized neural networks. [Github](https://github.com/Neniflight/GI_ASR)
+  * [GAMED](https://ucsdgamed.onrender.com/) : Website to find games with play with other gamers
   * League of Legends Competitive Analysis: [Website](https://kchan2203.github.io/2022_lol_comp_data_analysis/)
-  * [GAMED](https://ucsdgamed.onrender.com/) : Website to find games with play with other gamers 
   * League of Legends Champion Prediction: [Website](https://kchan2203.github.io/2022_lol_comp_model/)
   * Political Sentiment Analysis with BERT
   * Covid Grade Inflation Study: [Video](https://www.youtube.com/watch?v=PG2LRgOwt_0), [Slideshow](https://docs.google.com/presentation/d/1qIMXz5U-no4Nm5EKTenvvpKOA9hW7ruuRUB3G-q0vHU/edit?usp=sharing)
